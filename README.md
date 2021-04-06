@@ -3,6 +3,7 @@ public page
 
 https://lepffm.github.io/public/
 
+add...
 <ul>
   {% for post in site.posts %}
     <li>
