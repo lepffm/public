@@ -3,7 +3,7 @@ layout: page
 title: "hello lepffm public"
 permalink: /
 ---
-# branch : main from proposal
+# branch : gh_pages from proposal
 # blog
 <ul>
   {% for post in site.posts %}
