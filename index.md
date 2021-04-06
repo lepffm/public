@@ -1,3 +1,7 @@
+layout: page
+title: "hello lepffm public"
+permalink: /
+
 <ul>
   {% for post in site.posts %}
     <li>
