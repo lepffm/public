@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "hello lepffm public"
-permalink: /
+permalink: /readme
 ---
 # branch : main 
 # blog
