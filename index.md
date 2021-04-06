@@ -1,7 +1,8 @@
+---
 layout: page
 title: "hello lepffm public"
 permalink: /
-
+---
 # blog
 <ul>
   {% for post in site.posts %}
