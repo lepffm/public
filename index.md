@@ -1,15 +1,7 @@
 ---
 #layout: page
-title: "hello lepffm public"
+title: "hello lepffm public page"
 permalink: /
 layout: home
 ---
-# branch : gh-pages from new
 # blog
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> {{ post.date}} 
-    </li>
-  {% endfor %}
-</ul>
