@@ -1,4 +1,7 @@
-title: tech Note
+title: tech note
+author:
+  name: lepffm
+description: simple tech notes...
 locale: ko_KR
 baseurl: "/public"
 url: "https://lepffm.github.io/"
