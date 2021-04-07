@@ -7,6 +7,7 @@ baseurl: "/public"
 url: "https://lepffm.github.io/"
 
 theme: minima
+  skin: dark
 #jekyll-theme-midnight
 plugins:
   - jekyll-feed
