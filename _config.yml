@@ -6,8 +6,3 @@ theme: jekyll-theme-midnight
 baseurl: /public
 
 
-sidebar: true
-RSS: true
-
-paginate: 10 
-plugins: [jekyll-paginate]
