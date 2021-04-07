@@ -3,7 +3,8 @@ locale: ko_KR
 baseurl: "/public"
 url: "https://lepffm.github.io/"
 
-theme: jekyll-theme-midnight
+theme: minima
+#jekyll-theme-midnight
 plugins:
   - jekyll-feed
 permalink: :title/
