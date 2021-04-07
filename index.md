@@ -1,7 +1,8 @@
 ---
-layout: page
+#layout: page
 title: "hello lepffm public"
 permalink: /
+layout: home
 ---
 # branch : gh-pages from new
 # blog
