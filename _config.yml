@@ -11,7 +11,11 @@ theme: minima
 #jekyll-theme-midnight
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 permalink: :title/
+
+paginate: 5
+paginate_path: "/page/:num/"
 
 
 prose:
