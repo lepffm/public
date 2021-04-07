@@ -1,8 +1,25 @@
 title: tech Note
 locale: ko_KR
+baseurl: "/public"
 url: "https://lepffm.github.io/"
 
 theme: jekyll-theme-midnight
-baseurl: /public
+plugins:
+  - jekyll-feed
+permalink: :title/
 
 
+prose:
+#  rooturl: '_posts'
+  siteurl: 'https://lepffm.github.io/public/'
+  media: 'media'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          value: ""
