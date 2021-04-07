@@ -1,2 +1,13 @@
+title: tech Note
+locale: ko_KR
+url: "https://lepffm.github.io/
+
 theme: jekyll-theme-midnight
-baseurl: "/public"
+baseurl: /public
+
+
+sidebar: true
+RSS: true
+
+paginate: 10 
+plugins: [jekyll-paginate]
