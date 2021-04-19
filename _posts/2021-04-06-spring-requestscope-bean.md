@@ -12,7 +12,7 @@ send web layer  information to service layer
 flow
 
 user request -> webconfig -> interceptor (set ip) -> controller (call service) -> sevice (use RCBean)
-'''
+```
 @Data
 public class WebData{
   private String uri;
@@ -47,4 +47,4 @@ public class MyService {
     return webData.getUri();
   }
 }
-'''
+```
