@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "spring @requestscope bean usage"
+tags: [dev, java]
 ---
 # subject
 example for spring requestscope bean
