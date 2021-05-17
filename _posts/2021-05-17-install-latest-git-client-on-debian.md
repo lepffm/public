@@ -23,4 +23,6 @@ git version 2.29.2
 ```
 
 buster backport is here "deb http://ftp.debian.org/debian buster-backports main" on /ect/apt/sources.list
-reference : https://unix.stackexchange.com/questions/559437/how-do-i-get-git-2-24-installed-on-debian-buster  
+
+#reference
+https://unix.stackexchange.com/questions/559437/how-do-i-get-git-2-24-installed-on-debian-buster  
