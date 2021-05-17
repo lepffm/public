@@ -11,9 +11,12 @@ install latest git client ( not 2.20.1 but 2.29.2+ )
 
 # description
 Debian not support default apt repository for latest git client.
-apt install git -> just installed 2.20.1 
 
 ```
+$sudo apt install git -y
+$git version
+git version 2.20.1
+
 $sudo apt -t buster-backports install git
 $git version
 git version 2.29.2
