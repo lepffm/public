@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "use winget for windows package manager"
+title: "use winget for windows package management"
 tags: [dev, windows]
 ---
 # subject
-use winget for windows package manager
+winget - windows package manager
 
 # purpose
-use winget for windows package manager
+use winget for windows package management
 
 # description
 'winget' is new package manager for MS Windows
