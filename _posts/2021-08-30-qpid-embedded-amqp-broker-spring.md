@@ -78,6 +78,7 @@ public class Configuration{
 ```
 
 qpid-config.json
+cf) Anonymous authenticationProvider does not support on RabbitMQ
 ```
 {
   "name": "EmbeddedBroker",
