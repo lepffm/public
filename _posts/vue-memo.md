@@ -25,3 +25,21 @@
   scrollBehavior on router  
   
 # form , submit not use ( remove it ) 
+
+# use vuex
+  variable => state : {  var_xxxx : '' }
+  // save 
+  this.$store.state.var_xxxx = 'value'; 
+  // read 
+  this.$store.state.var_xxxx
+  -> reload 시 날라감.
+  ==> use webstorage 
+  
+# use session storage
+  sessionStorage.var_xxx = this.var_xxxx;
+  
+  beforeCreate 에서 sessionStorage value 읽어서 state에 할당 
+  if(sessionStorage.var_xxx != undefined) ... 
+  
+  // remove storage
+  sessionStorage.clear() 
