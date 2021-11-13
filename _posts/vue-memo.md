@@ -43,3 +43,10 @@
   
   // remove storage
   sessionStorage.clear() 
+  
+  cf) storage 는 문자열로 저장됨 
+  
+# watch 
+  created 는 컴포넌트 생성떄만. 
+  watch : { '$route' (to, from){ alert(this.$route.params.board_idx); } }
+  
